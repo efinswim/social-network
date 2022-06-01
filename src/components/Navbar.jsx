@@ -68,7 +68,7 @@ const Navbar = () => {
           </Badge>
           <Avatar
             sx={{ w: 20, h: 20 }}
-            src='https://images.pexels.com/photos/10975387/pexels-photo-10975387.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'
+            src='https://images.pexels.com/photos/2182970/pexels-photo-2182970.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'
             onClick={(e) => setOpenMenu(true)}
           />
         </Icons>
@@ -78,7 +78,7 @@ const Navbar = () => {
         >
           <Avatar
             sx={{ w: 20, h: 20 }}
-            src='https://images.pexels.com/photos/10975387/pexels-photo-10975387.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'
+            src='https://images.pexels.com/photos/2182970/pexels-photo-2182970.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'
           />
           <Typography variant='span'>Andrii</Typography>
         </UserBox>
